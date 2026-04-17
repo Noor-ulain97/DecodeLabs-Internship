@@ -21,19 +21,8 @@ This project helps users manage daily tasks with features like adding, viewing, 
 Python
 JSON (File Handling)
 
-💰 Expense Tracker - Python Project
 
-## 📌 Overview
-This is a simple Expense Tracker built using Python.  
-It helps users manage and calculate their daily expenses using a command-line interface.
 
----
-
-## 🚀 Features
-- Add expense amounts
-- View total spending
-- Simple and interactive CLI menu
-- Uses basic Python concepts like loops, lists, and arithmetic operations
 
 ____________________________________________________________________________
 **
