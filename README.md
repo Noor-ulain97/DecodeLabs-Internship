@@ -8,12 +8,12 @@ This project helps users manage daily tasks with features like adding, viewing, 
 
 ----------------------------
 **Features**
-➕ Add new tasks
-📋 View all tasks
-✅ Mark tasks as completed
-🗑️ Delete tasks
-💾 Data saved using JSON (persistent storage)
-📌 Predefined tasks included
+. Add new tasks
+. View all tasks
+. Mark tasks as completed
+. Delete tasks
+. Data saved using JSON (persistent storage)
+. Predefined tasks included
 
 
 -------------------------
