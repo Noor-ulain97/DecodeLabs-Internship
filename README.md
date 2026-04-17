@@ -81,6 +81,23 @@ __________________________________________________
 
 This project demonstrates how password security works in real-world applications.
 It teaches how secure systems generate unpredictable passwords using cryptographic functions instead of basic random methods.
+_______________________________________________________________________________________________________________________________
+
+**4 🖥️Advanced Quiz App (Python GUI)**
+This is a graphical quiz application developed using Python and Tkinter. It allows users to attempt a multiple-choice quiz with a timed question system, score tracking, and final result evaluation.
+The user enters their name and starts the quiz. Each question has four options and a time limit. The application automatically moves to the next question when the user selects an answer or when time runs out. At the end of the quiz, the user receives their score, percentage, and a performance message.
+_____________________________________________________________________________________________________________________
+**Features**
+GUI-based quiz using Tkinter
+Multiple-choice questions
+Timer for each question
+Automatic question navigation
+Score and percentage calculation
+Progress tracking
+Restart option
+____________________________________________________________________
+**Purpose**
+This project is built to practice Python GUI development and improve understanding of event-driven programming and application logic.
 
 
 
